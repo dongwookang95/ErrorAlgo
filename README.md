@@ -2,6 +2,8 @@
 All made without using Arraylist since error-detecting and correcting should be done at the low level, meaning that 
 least amount of memory spaces are used by that.
 
+Based on Java
+
 ## Hamming distance
 The error-detecting and error-correcting properties of a code depend on its Hamming distance.
 The error detecting code
